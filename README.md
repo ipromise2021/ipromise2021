@@ -1,6 +1,6 @@
 ## Hi there 👋
 
 
-**ipromise2021/ipromise2021** 是一个个人仓库
+这是 **ipromise2021** 个人仓库
 
-待定
+直接展示在主页吗？
